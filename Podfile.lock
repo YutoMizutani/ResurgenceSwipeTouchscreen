@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Eureka (4.3.1)
+  - OperantKit (0.0.34):
+    - RxCocoa
+    - RxSwift
+  - Realm (3.13.1):
+    - Realm/Headers (= 3.13.1)
+  - Realm/Headers (3.13.1)
+  - RealmSwift (3.13.1):
+    - Realm (= 3.13.1)
+  - RxAtomic (4.4.2)
+  - RxCocoa (4.4.2):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxGesture (2.1.0):
+    - RxCocoa (~> 4.4.0)
+    - RxSwift (~> 4.4.0)
+  - RxSwift (4.4.2):
+    - RxAtomic (>= 4.4.2, ~> 4.4)
+  - SwiftyDropbox (5.0.0):
+    - Alamofire (~> 4.7.3)
+
+DEPENDENCIES:
+  - Eureka
+  - OperantKit
+  - RealmSwift
+  - RxCocoa
+  - RxGesture
+  - RxSwift
+  - SwiftyDropbox
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Eureka
+    - OperantKit
+    - Realm
+    - RealmSwift
+    - RxAtomic
+    - RxCocoa
+    - RxGesture
+    - RxSwift
+    - SwiftyDropbox
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Eureka: 28ea296f06710f6745266b71f17862048941a32d
+  OperantKit: 41fb975eb118221559ac57f3aa872bdaae834e53
+  Realm: 50071da38fe079e0735e47c9f2eae738c68c5996
+  RealmSwift: 8a1e6a02b7a08cd17a31e3115143fb69fe5f3fb9
+  RxAtomic: d00e97c10db88c6f08540e0bf2752fc5a2404167
+  RxCocoa: 477990dc3b4c3ff55fb0ac77e1cc06244e0aaec8
+  RxGesture: 7f6dfb45dbde06e618c24442d38493e3144f2c95
+  RxSwift: 74c29b693c8e42b0f64400e8b06564575742d649
+  SwiftyDropbox: 378b4425a2e8d0cb24c7b0f2e3af72bfbaaf1e73
+
+PODFILE CHECKSUM: 99f9f02991fc528d1adeac951c8b0469b83cf048
+
+COCOAPODS: 1.9.3
